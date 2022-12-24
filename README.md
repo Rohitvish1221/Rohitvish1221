@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and Web Development 
 - 🌱 I’m currently learning in Govt.Science College Jabalpur 
 - 💞️ I’m looking to collaborate on Web Development 
-- 📫 How to reach me @vishro1221
+- 📫 How to reach me vishro1221@gmail.com
 
 <!---
 Rohitvish1221/Rohitvish1221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
