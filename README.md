@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rohitvish1221
-- 👀 I’m interested in Coding and Web Development 
-- 🌱 I’m currently learning in Govt.Science College Jabalpur 
+- 👀 I’m interested in DSA and Web Development 
+- 🌱 I’m currently learning in Shri Ram Institute of Technology, Jabalpur 
 - 💞️ I’m looking to collaborate on Web Development 
 - 📫 How to reach me rohit6162job@gmail.com
 
