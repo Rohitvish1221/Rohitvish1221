@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @Rohitvish1221
+<h1 align="center">Hi 👋, I'm Rohit Vishwakarma</h1>
+<h3 align="center">A passionate MERN Stack developer</h3>
+
+
 - 👀 I’m interested in DSA and Web Development 
 - 🌱 I’m currently learning in Shri Ram Institute of Technology, Jabalpur 
 - 💞️ I’m looking to collaborate on Web Development 
