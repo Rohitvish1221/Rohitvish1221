@@ -5,7 +5,7 @@
 - 👀 I’m interested in DSA and Web Development 
 - 🌱 I’m currently learning in Shri Ram Institute of Technology, Jabalpur 
 - 💞️ I’m looking to collaborate on Web Development 
-- 📫 How to reach me rohit6162job@gmail.com
+- 📫 How to reach me rohitvishwakarma2106@gmail.com
 
 <!---
 Rohitvish1221/Rohitvish1221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
